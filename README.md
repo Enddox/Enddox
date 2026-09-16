@@ -25,21 +25,11 @@
 ## 🛠️ Tech Stack & Skills
 
 ```
-  Frontend ──► HTML5 • CSS3 • JavaScript / TypeScript • Modern Frameworks
-  Backend  ──► Node.js • APIs • Databases
-  Tools    ──► Git • GitHub • VS Code
+Nothing wwwwwwwwwwww
 ```
 
 ---
 
 ## 💬 Connect With Me
 
-- **Discord:** `@watashi9029` — *Feel free to send a request or chat about web dev!*
-
----
-
-<div align="center">
-
-*“Every expert was once a beginner. Step by step, line by line.”* 💫
-
-</div>
+- **Discord:** `@watashi9029` — *Feel free to send a request*
