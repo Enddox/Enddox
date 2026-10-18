@@ -2,7 +2,7 @@
 
 # Hi there, I'm Enddox 👋
 
-✨ *Modern Fullstack Web Developer* ✨
+✨ *MeMeMeMe* ✨
 
 ---
 
@@ -15,10 +15,7 @@
 
 ## 🌸 About Me
 
-- 🔭 **Current Focus:** Modern Fullstack Web Development (building seamless frontend interfaces and robust backend systems).
-- 🌱 **Learning & Growing:** Diving into modern frameworks, databases, and web architectures.
-- 🚀 **Next Milestone:** Preparing to release my first showcase projects soon!
-- 👯 **Open to Collaborate:** Enthusiastic about learning alongside other developers and discussing web technologies.
+Nothing :)
 
 ---
 
